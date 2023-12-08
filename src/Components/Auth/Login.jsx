@@ -7,6 +7,7 @@ const Login = () => {
 
   const handleLogin = () => {
     // Implement login logic here
+    
   };
 
   return (
